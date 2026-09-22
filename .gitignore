@@ -3,7 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Participant epoch data is intentionally kept out of the public repository.
-trials/epoch_data/
+trials/epoch_data/*
 
 # Locally generated document exports.
 trials/*.html
